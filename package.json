@@ -1,0 +1,26 @@
+{
+    "name": "frontendmentor-3-column-preview-card-component",
+    "version": "1.0.0",
+    "description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sissokho/frontendmentor-3-column-preview-card-component.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sissokho/frontendmentor-3-column-preview-card-component/issues"
+    },
+    "homepage": "https://github.com/sissokho/frontendmentor-3-column-preview-card-component#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.4.0",
+        "postcss": "^8.4.5",
+        "tailwindcss": "^3.0.2",
+        "vite": "^2.7.2"
+    }
+}
