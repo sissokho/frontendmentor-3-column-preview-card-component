@@ -2,6 +2,7 @@ module.exports = {
     content: ['./index.html'],
     theme: {
         colors: {
+            transparent: 'transparent',
             orange: 'hsl(31, 77%, 52%)',
             cyan: {
                 dark: 'hsl(184, 100%, 22%)',
